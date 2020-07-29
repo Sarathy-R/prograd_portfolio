@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
 
-* {
-}
+* {}
 
 body {
   font-family: "Nunito Sans", sans-serif;
@@ -62,6 +61,7 @@ header div p {
 #port {
   background-color: black;
   color: white;
+  background-image: url(./assets/portfolio-background.svg);
 }
 
 #skill-container {
@@ -85,6 +85,7 @@ header div p {
   list-style: none;
   padding: 0;
 }
+
 #skills ul li {
   margin: 10px 0;
 }
